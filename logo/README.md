@@ -1,5 +1,5 @@
 # AV23 - Logo en design
-[Av23 website](/)
+[AV23 website](https://github.com/KoopReynders/av23)
 
 
 
