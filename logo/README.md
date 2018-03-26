@@ -1,5 +1,5 @@
 # AV23 - Logo en design
-[Av23 website](../)
+[Av23 website](/)
 
 
 
