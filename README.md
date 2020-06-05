@@ -35,25 +35,25 @@ Opmerkingen van Peter
 * oude nieuwsberichten en links opvangen en doorverwijzen.
 * Alle oude nieuwsberichten en blogs overzetten naar Wordpress. Beginnen met 2018
 
-av23/pupillen
-av23/pupillen/pupillenB
-av23/junioren
-av23/junioren/juniorenD
-av23/senioren (en masters)
-av23/hardlopen
+- av23/pupillen
+- av23/pupillen/pupillenB
+- av23/junioren
+- av23/junioren/juniorenD
+- av23/senioren (en masters)
+- av23/hardlopen
 
-av23/club
-av23/club/vrijwilligers
-av23/club/commissies
-av23/club/bestuur
-av23/club/kantine
-av23/club/training
-av23/club/aanmelden
+- av23/club
+- av23/club/vrijwilligers
+- av23/club/commissies
+- av23/club/bestuur
+- av23/club/kantine
+- av23/club/training
+- av23/club/aanmelden
 
-/nieuws
-/agenda
-/clubrecords
-/
+- av23/nieuws
+- av23/agenda
+- av23/clubrecords
+- /
 
 
 
